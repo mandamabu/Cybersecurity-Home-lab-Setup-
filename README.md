@@ -28,7 +28,7 @@ A VM snapshot should be taken:
 2. Before installing new tools
 3. After a clean working setup is confirmed
 
-This allows instant restoration if something breaks without 
+This is important because it allows instant restoration if something breaks without 
 needing to rebuild the VM from scratch.
 
 
